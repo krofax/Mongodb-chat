@@ -17,3 +17,6 @@ npm start
 
 ## Run App
 Open index.html
+
+## Author
+Blessing Krofegha
